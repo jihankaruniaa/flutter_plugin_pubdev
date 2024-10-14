@@ -216,7 +216,7 @@ RedTextWidget menggunakan AutoSizeText untuk menyesuaikan ukuran teks agar muat 
    )
    ```
 
-- **Rich Text**
+- **Rich Text** <br>
 AutoSizeText mendukung penggunaan Rich Text, yang memungkinkan Anda menerapkan beberapa gaya dalam satu teks. Untuk menggunakannya, Anda perlu menggunakan AutoSizeText.rich().
 
     Contoh:
@@ -230,7 +230,7 @@ AutoSizeText mendukung penggunaan Rich Text, yang memungkinkan Anda menerapkan b
     )
     ```
 
-- **Parameters**
+- **Parameters** <br>
 Berbagai parameter yang telah dijelaskan sebelumnya seperti key, textKey, style, minFontSize, maxFontSize, stepGranularity, dan lain-lain membantu menyesuaikan ukuran teks agar sesuai dengan area yang tersedia.
 
 - **Performance (Performa)** <br>
